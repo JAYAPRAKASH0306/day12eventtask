@@ -1,0 +1,65 @@
+.container{
+    display: flex;
+}
+
+
+.A1{
+    width: 55rem;
+    height: 36rem;
+    border: 0.2rem solid black;
+}
+
+.text{
+    color:black
+}
+.A2{
+    width: 49rem;
+    height: 23rem;
+    border: 0.2rem solid black;
+    margin-top: 1rem;
+}
+
+.A3{
+    width: 15rem;
+    height: 17rem;
+    border: 0.2rem solid black;
+    margin-top: 3rem;
+}
+
+.A4{
+    width: 10rem;
+    height: 10rem;
+    border: 0.2rem solid black;
+    margin-top: 3.5rem;
+    border-radius: 50%;
+}
+
+.inp-size{
+    width:10rem;
+}
+
+.adjust{
+    margin-left:5.7rem
+}
+
+.adjust1{
+    margin-left:3.7rem
+}
+
+.adjust2{
+    margin-left:2.7rem
+}
+
+.adjust3{
+    margin-left:0.3rem
+}
+
+
+   
+
+
+
+
+
+
+
